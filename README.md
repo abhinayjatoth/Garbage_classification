@@ -11,6 +11,7 @@ Trained all the three models on google colab prpo
 1. Source Code Colab files of CNN, MobileNet and InceptionV3 models in file : Garbage Classification - MobileNet and CNN, Garbage Classification - InceptionV3
 2. Garbage dataset(12 classes)
 3. IEEE format Final Report in pdf and doc
+4. Project Presentation
 
 ### Executing Instructions
 - Add shared drive link shortcut or the dataset to your local drive
