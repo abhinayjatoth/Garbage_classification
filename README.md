@@ -3,6 +3,8 @@
 ## Learning Objective:
 For this project we used 2 pre-trained CNN models(InceptionV3 and MobileNet) and a custom CNN model to classify 12 different types of garbage categories
 
+The source code are two colab file as mentioned below. It contains datset loading, data-preprocessing/augmentation, Model Building and training and evaluation
+
 Trained all the three models on google colab prpo
 
 ### The deliverables of the project are as follows
